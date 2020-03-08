@@ -1,0 +1,3 @@
+[submodule "iosdevcampcolorado.github.io"]
+	path = iosdevcampcolorado.github.io
+	url = git@github.com:Iosdevcampcolorado/iosdevcampcolorado.github.io.git
