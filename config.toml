@@ -1,17 +1,19 @@
 baseurl = "https://example.com/"
 languageCode = "en-us"
-title = "OneDly Project"
+title = "iOSDevCamp Colorado"
 theme = "onedly"
+enableEmoji = true
 
 #
 # Personalization params
 #
 [params]
     # project specific params
-    description = "ZZZOne-Day-Only (OneDly) project documentation."
-    author_url = "//cdeck3r.com"
-    author_name = "cdeck3r"
-    project_url = "//github.com/cdeck3r/OneDly-Theme"
+    description = "Returning in 2020 in Colorado Springs • Our 10th year!"
+    author_url = "//iOSDevCampColorado.com"
+    author_name = "iOSDevCamp Colorado"
+    #project_url = "//github.com/cdeck3r/OneDly-Theme"
+    logo = "/img/iOSDevCamp-New-Flag.svg"
 
     # optionally specify where the content is
     # mainSections = ["post"] 
@@ -48,7 +50,7 @@ theme = "onedly"
 #
 [social]
     # Coding Communities
-    github           = "cdeck3r/OneDly-Theme"
+    github           = "Iosdevcampcolorado"
     gitlab           = ""
     stackoverflow    = "" # User Number
     bitbucket        = ""
@@ -73,7 +75,7 @@ theme = "onedly"
     googleplus       = ""
     reddit           = ""
     quora            = ""
-    youtube          = "channel/UCZ5wNVV_E6AA3L3C-mvqwSA"
+    youtube          = ""
     vimeo            = ""
     whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
@@ -81,7 +83,7 @@ theme = "onedly"
     qq             = "" # User ID Number
     instagram        = ""
     tumblr           = ""
-    twitter          = "cdeck3r"
+    twitter          = "iosDevCampCO"
     skype            = ""
     snapchat         = ""
     pinterest        = ""
@@ -91,7 +93,7 @@ theme = "onedly"
     orcid            = ""
     researchgate     = ""
     # Email
-    email = "info@cdeck3r.com"
+    email = "organizers@iosdevcampcolorado.com"
 
 #
 # Adjust privacy settings

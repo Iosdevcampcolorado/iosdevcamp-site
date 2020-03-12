@@ -7,6 +7,12 @@
 					<li>
 						<a class="page-scroll" href="#intro">Up</a>
 					</li>
+					{{ if (fileExists "content/coc/index.md") -}}
+						<li class="footer-menu-divider">&sdot;</li>
+						<li>
+							<a href="{{ "coc" | absURL }}" >Code of Conduct</a>
+						</li>
+					{{- end }}
 					{{ if (fileExists "imprint-gdpr/imprint.md") -}}
 						<li class="footer-menu-divider">&sdot;</li>
 						<li>

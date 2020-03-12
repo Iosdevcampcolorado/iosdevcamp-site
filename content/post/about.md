@@ -1,41 +1,19 @@
 +++
-title = "About"
+title = "What's iOSDevCamp?"
 description = "Initial project description"
 date = "2019-08-07"
-author = "Christian Decker"
+author = "Tom Harrington"
 sec = 1
 +++
 
-One-Day-Only or OneDly projects help to acquire a new skill or to complete a task within a short timeframe. It limits the available time and combines it with defined objectives. This situation forces you to focus on the relevant elements in order to successfully complete a task or project. Please note, the idea is not to pack as much work as you can do within a workday. At the end you will find answers for the following questions 
+iOSDevCamp is an informal conference-style event for iOS app developers of all skill levels. The event is on a Friday evening and then all day Saturday:
 
-* What were the relevant elements for success?
-* How good are you in estimating your work effort?
-* What were road blocks or even showstoppers you haven't forseen even in a short-term project horizon?
-* What are typical reoccuring interuptions and distractions during your work?
-* What is your personal pace when working intensly on a task or project?
+- Friday evening, 6:30PM - 9:30PM: Socialize, network, hang out, and plan for Saturday
+- Saturday, 9AM - 6PM: All day presentations, demos, and workshops from the best damn iOS developers in Colorado. Exact schedule TBD, but it’s always a day full of awesome. 
 
+We’ll provide Friday night drinks, and coffee and lunch on Saturday. For those who want to explore, a wide array of eating and drinking establishments are close by.
 
-This will certainly generate some personal insights and improve your activities in future projects. 
-
-### Structuring OneDly Projects
-
-A single page stores an entire OneDly project documentation. We recommend the following  concise structure.
-
-* About: Some background / intro information motivating the project
-* Project Definition
-    * Goal
-    * Approach and Objectives
-* Sections
-* ...
-* Summary and Conclusions
-* Next steps
-
-### Example
-
-Raspi mini computers are embedded computers running linux and provide a desktop alike programming experiences. They are available at low cost. Being able to develop software for these systems is a valuable contribution to one's CV.
-
-This OneDly project experiements with the Raspi setup, development and deployment of some example software.
-
+**Dates are TBD due to COVID-19 concerns.** We had hoped to return in the spring, as we've done in the past. We'll return as soon as it seems safe. To find out when that is, [sign up for our newsletter](https://tinyletter.com/iosdevcampcolorado) or [follow us on Twitter](https://twitter.com/iosdevcampco).
 
 
 

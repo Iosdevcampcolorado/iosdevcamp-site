@@ -71,7 +71,7 @@
 <!-- Email -->
 {{ if .Site.Params.socialShareEmail | default true}}
 <li>
-  <a href="mailto:?subject=Check out this project &quot;{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}&quot;&amp;body={{ .Permalink }}" target="_blank" class="btn btn-social-icon btn-github " title="Share on Email">
+  <a href="mailto:?subject={{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}&amp;body={{ .Permalink }}" target="_blank" class="btn btn-social-icon btn-github " title="Share on Email">
     <i class="fa fa-envelope"></i>
   </a>
 </li>
