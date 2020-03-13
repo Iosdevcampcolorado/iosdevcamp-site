@@ -15,5 +15,4 @@ We’ll provide Friday night drinks, and coffee and lunch on Saturday. For those
 
 **Dates are TBD due to COVID-19 concerns.** We had hoped to return in the spring, as we've done in the past. We'll return as soon as it seems safe. To find out when that is, [sign up for our newsletter](https://tinyletter.com/iosdevcampcolorado) or [follow us on Twitter](https://twitter.com/iosdevcampco).
 
-
-
+![](img/IMG_0711-2000.jpeg#center)
