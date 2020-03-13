@@ -21,3 +21,8 @@ Talks fall into two groups: general presentations and blitz talks.
 General presentations can be slide-oriented talks, Xcode-oriented demos, or pretty much whatever works. They usually run 25-50 minutes, but more or less is OK if you let us know in advance (for scheduling purposes). Blitz talks are short 5-minute presentations. They're good for short topics, and also for people unaccustomed to speaking in front of a group (you know it'll be over quick!).
 
 We don't need to see slides or detailed summaries in advance. We *do* need to know what you'd like to cover, and what format you prefer.
+
+### Interested?
+
+If you'd like to give it a try, let us know! You can reach us [on Twitter](https://twitter.com/iosdevcampco) or [by email](mailto:organizers@iosdevcampcolorado.com?subject=Speaking%20at%20iOSDevCamp%20Colorado).
+
